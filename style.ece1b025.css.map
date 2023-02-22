@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,MACE,aAAc,CACd,kBACF,CAEA,aACE,kBACF,CAEA,uBACE,QACF","file":"style.ece1b025.css","sourceRoot":"..\\src","sourcesContent":["label {\r\n  display: block;\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.information {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.last-label:last-child {\r\n  margin: 0;\r\n}\r\n"]}
